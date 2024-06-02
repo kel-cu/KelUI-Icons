@@ -5,6 +5,7 @@ Set of custom icons for KelUI
 Name | Icon
 --- | ---
 oneshot_lamp | ![oneshot_lamp](https://raw.githubusercontent.com/kel-cu/KelUI-Icons/main/oneshot_lamp/icon_128x128.png)
+oneshot_icon | ![oneshot_icon](https://raw.githubusercontent.com/kel-cu/KelUI-Icons/main/oneshot_icon/icon_128x128.png)
 legacy_icon | ![oneshot_lamp](https://raw.githubusercontent.com/kel-cu/KelUI-Icons/main/legacy_icon/icon_128x128.png)
 
 ## Как установить иконки? <br> How do I install icons?
